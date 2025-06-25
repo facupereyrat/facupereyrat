@@ -6,8 +6,7 @@
 <div align="left">
   <h2>Acerca de mí</h2>
 
-👨‍💻 Soy un Desarrollador de Software apasionado y comprometido con mi crecimiento profesional en la industria tecnológica. 
-📚 Actualmente, estoy cursando el último año de la Tecnicatura Superior en Desarrollo de Software, complementando mi formación con diversos cursos en plataformas reconocidas. Esto me permite mantenerme actualizado sobre las últimas tendencias y herramientas en el mundo de la programación. 🚀
+📚 Actualmente estoy cursando el último año de la Tecnicatura Superior en Desarrollo de Software, complementando mi formación con diversos cursos en plataformas reconocidas. Esto me permite mantenerme actualizado sobre las últimas tendencias y herramientas en el mundo de la programación. 🚀
 
 <div align="left">
   <h2>🚀 Lenguajes y herramientas</h2>
