@@ -91,7 +91,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
   <a href="mailto:facupereyrat@outlook.com" target="blank">
-    <img align="center" src="[https://c1.klipartz.com/pngpicture/424/95/sticker-png-sharepoint-logo-watercolor-paint-wet-ink-office-365-microsoft-outlook-microsoft-office-microsoft-corporation-thumbnail.png](https://i.imgur.com/y3Dsct9.png)" alt="Correo electronico" height="40" width="40" />
+    <img align="center" src="https://i.imgur.com/y3Dsct9.png" alt="Correo electronico" height="40" width="40" />
   </a>
   <a href="https://instagram.com/facupereyrat" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="facupereyrat" height="30" width="40" />
