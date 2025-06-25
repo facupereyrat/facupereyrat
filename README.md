@@ -6,7 +6,8 @@
 <div align="left">
   <h2>Acerca de mí</h2>
 
-Soy programador💻estudiante en la carrera Desarrollo de Software, especializado en .NET, utilizando C#. Actualmente estoy en el ultimo año de la tecnicatura Superior, complementando mi formación con diversos cursos de excelentes plataformas, lo que me permite mantenerme actualizado en las ultimas tendencias y tecnologias del mundo de la programacion.
+👨‍💻 Soy un Desarrollador de Software apasionado y comprometido con mi crecimiento profesional en la industria tecnológica. 
+📚 Actualmente, estoy cursando el último año de la Tecnicatura Superior en Desarrollo de Software, complementando mi formación con diversos cursos en plataformas reconocidas. Esto me permite mantenerme actualizado sobre las últimas tendencias y herramientas en el mundo de la programación. 🚀
 
 <div align="left">
   <h2>🚀 Lenguajes y herramientas</h2>
@@ -84,14 +85,14 @@ Soy programador💻estudiante en la carrera Desarrollo de Software, especializad
   <a href="https://github.com/facupereyrat" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="facupereyrat" height="30" width="40" />
   </a>
-  <a href="https://ar.linkedin.com/in/facupereyrat" target="blank">
+  <a href="www.linkedin.com/in/facupereyra" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facupereyrat" height="30" width="40" />
   </a>
   <a href="https://wa.me/3516695165" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
   <a href="mailto:facupereyrat@outlook.com" target="blank">
-    <img align="center" src="https://c1.klipartz.com/pngpicture/424/95/sticker-png-sharepoint-logo-watercolor-paint-wet-ink-office-365-microsoft-outlook-microsoft-office-microsoft-corporation-thumbnail.png" alt="Correo electronico" height="40" width="40" />
+    <img align="center" src="[https://c1.klipartz.com/pngpicture/424/95/sticker-png-sharepoint-logo-watercolor-paint-wet-ink-office-365-microsoft-outlook-microsoft-office-microsoft-corporation-thumbnail.png](https://i.imgur.com/y3Dsct9.png)" alt="Correo electronico" height="40" width="40" />
   </a>
   <a href="https://instagram.com/facupereyrat" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="facupereyrat" height="30" width="40" />
